@@ -1,0 +1,26 @@
+{
+  "name": "visual-test-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/art-graph/visual-test-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/art-graph/visual-test-demo/issues"
+  },
+  "homepage": "https://github.com/art-graph/visual-test-demo#readme",
+  "devDependencies": {
+    "karma": "^6.3.17",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-jasmine": "^4.0.2",
+    "karma-visual-html-reporter": "^1.0.3",
+    "karma-visual-test": "^1.0.2"
+  }
+}
